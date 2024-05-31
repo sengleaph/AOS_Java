@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">cafe app</string>
+    <string name="cappuccino">Cappuccino</string>
+    <string name="_7_90">$7.90</string>
+    <string name="_30_reviews">30 Reviews</string>
+    <string name="progressively_build_high_payoff_methods_infopreneur_empowerment_after_high_quality_expertise_are_cooperative_products_assertively_enable_client_centered_infrastructures">Progressively build high-payoff methods infopreneur empowerment after high quality expertise are cooperative products assertively enable client-centered infrastructures.</string>
+    <string name="quantity">Quantity</string>
+    <string name="sub">-</string>
+    <string name="_01">01</string>
+    <string name="sum">+</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="todo">TODO</string>
+    <string name="about_us">About Us</string>
+    <string name="description">Description</string>
+    <string name="at_sifu_cafe_we_believe_that_coffee_is_more_than_just_a_beverage_it_s_a_way_of_life_nestled_in_the_heart_of_the_city_our_coffee_shop_offers_a_warm_and_inviting_atmosphere_where_customers_can_escape_the_hustle_and_bustle_and_enjoy_the_simple_pleasure_of_a_perfect_cup_of_coffee">At Sifu Cafe, we believe that coffee is more than just a beverage; it\'s a way of life. Nestled in the heart of the city, our coffee shop offers a warm and inviting atmosphere where customers can escape the hustle and bustle and enjoy the simple pleasure of a perfect cup of coffee.</string>
+    <string name="about_sifu_cafe">About Sifu Cafe</string>
+</resources>
